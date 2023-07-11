@@ -274,6 +274,24 @@
     box-sizing: border-box;
 
 }
+.online-order{
+    background: #ac9499;
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 20px;
+    padding: 70px;
+}
+.online-order input{
+    width:500px;
+    height: 50px;
+    margin: 10px;
+    
+}
+.online-order select{
+    width:500px;
+    height: 50px;
+    margin: 10px;
+}
 span{
     color: #E55473;
 }
